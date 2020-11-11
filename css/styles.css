@@ -1,4 +1,4 @@
-/* Core Styles */
+
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
@@ -40,7 +40,7 @@ p {
   color: #333;
 }
 
-/* Header Showcase */
+
 #showcase {
   min-height: 450px;
   color: #fff;
@@ -69,14 +69,14 @@ p {
   padding: 0 1.5em;
 }
 
-/* Section A */
+
 #section-a {
   background: #eaeaea;
   color: #333;
   padding-bottom: 2em;
 }
 
-/* Section B */
+
 #section-b {
   padding: 2em 1em 1em;
   background: #fc9003;
@@ -98,21 +98,21 @@ p {
   padding: 1.5em;
 }
 
-/* Section C */
+
 #section-c {
   background: #fff;
   color: #333;
   padding: 2em;
 }
 
-/* Section D / Boxes */
+
 #section-d .box {
   padding: 2em;
   color: #fff;
 }
 
 #section-d .box:first-child {
-  background: #ffffe6;
+  background: #FFEBCD;
   color: #333;
 
 }
@@ -121,7 +121,7 @@ p {
   background: #660000;
 }
 
-/* Footer */
+
 #main-footer {
   padding: 2em;
   background: #000;
@@ -134,7 +134,7 @@ p {
   text-decoration: none;
 }
 
-/* Media Query */
+
 @media(min-width: 700px) {
   .grid {
     display: grid;
